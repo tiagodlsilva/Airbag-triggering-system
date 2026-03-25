@@ -1,12 +1,14 @@
 # Airbag-Triggering-System
 
+This project was developed collaboratively with **Arnaldo Rodrigues** and **Gustavo Agostinho** at the University of Porto, Portugal, during the course 'Project (EFIS3001)'. My individual contributions are highlighted in the "My Contribution" section.
+
+---
+
 This project presents the development and validation of a functional prototype for an airbag-triggering system. By using a triaxial **accelerometer (ADXL345)**, combined with an **ESP32 microcontroller**, the system reliably detects collisions in real time, distinguishing between frontal and lateral collisions, rollovers, and free falls.
 
 Sensor data is processed and transmitted to a LabVIEW interface for real-time visualization, and also stored for later evaluation.
 
 This project demonstrates the feasibility of low-cost, efficient automotive safety systems, with potential applications in autonomous vehicles, personal protection, and industrial monitoring.
-
-This project was developed collaboratively with **Arnaldo Rodrigues** and **Gustavo Agostinho** at the University of Porto, Portugal, during the course 'Project (EFIS3001)'. My individual contributions are highlighted in the "My Contribution" section.
 
 ---
 
